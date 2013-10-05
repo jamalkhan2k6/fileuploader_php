@@ -1,6 +1,6 @@
 #File Uploader Class For PHP:   
 
-Uploader Class for PHP. Made to be extremely easy, handles multiple files, mime types, and sizes. 
+Uploader Class for PHP. Extremely easy to use, handles multiple files, mime type checks, and size checks. 
 
 ## Basic usage:   
 Make an html form with file input.   
