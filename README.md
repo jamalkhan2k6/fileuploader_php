@@ -1,6 +1,8 @@
+#File Uploader Class For PHP:   
+
 Uploader Class for PHP. Made to be extremely easy, handles multiple files, mime types, and sizes. 
 
-# Basic usage:   
+## Basic usage:   
 Make an html form with file input.   
 
 ### Handle the uploaded files using uploader:       
