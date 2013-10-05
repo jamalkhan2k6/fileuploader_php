@@ -1,4 +1,3 @@
-
 Uploader Class for PHP. Made to be extremely easy, handles multiple files, mime types, and sizes. 
 
 # Basic usage:   
@@ -26,7 +25,7 @@ check to see if there is any error:
 `$uploader->checkSize(200000);`
 
 ### Check for errors:  
-(returns "mime" or "size" or "" in case of no errors)   
+(returns "mime" or "size" or blank string in case of no errors)   
 
 `$error = $uploader->getErrorType();`   
 
