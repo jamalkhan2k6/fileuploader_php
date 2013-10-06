@@ -2,8 +2,8 @@
 
 Uploader Class for PHP. Extremely easy to use, handles multiple files, mime type checks, and size checks. 
 
-## Basic usage:   
-Make an html form with file input.   
+### Basic usage:   
+Make an html form with file input. Point the action paramter to the php file which controls file upload procedure using fileuploader class.  
 
 ### Handle the uploaded files using uploader:       
 initialize the class object:    
