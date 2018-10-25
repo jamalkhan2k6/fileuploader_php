@@ -1,4 +1,4 @@
-#File Uploader Class For PHP:   
+# File Uploader Class For PHP:   
 
 Uploader Class for PHP. Extremely easy to use, handles multiple files, mime type checks, and size checks. 
 
